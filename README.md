@@ -1,5 +1,6 @@
 # simple-particles-text-anim
-
+This is an simple [example](https://franktronics.github.io/simple-particles-text-anim/)<br/><br/>
+## How to use? <br/>
 To add a text particle in a html div for example: 
 ```HTML
 <div id="canvas2"></div>
